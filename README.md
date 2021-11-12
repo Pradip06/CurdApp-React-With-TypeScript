@@ -35,8 +35,7 @@ curd-react-ts/
     	index.tsx
     	logo.svg
      
-     ```
-
+ ```
 
 
 # Getting Started with Create React App
