@@ -1,6 +1,40 @@
 # Folder Structure
 After creation, your project should look like this:
 
+```
+curd-react-ts/
+	db/
+          db.json
+
+         /node_modules/
+
+         / public/
+    		index.html
+    		favicon.ico
+
+        .gitignore
+   	package.json
+  	package-lock.json
+        README.md
+   
+        src/
+            /component/
+                       Home.tsx
+                       AddList.tsx
+                       ListUpdate.tsx
+                       NavBar.tsx
+                       Search.tsx
+            /Log In & Out/ 
+                          login.tsx
+                          Logout.tsx
+			  Register.tsx
+    	App.css
+    	App.tsx
+    	App.test.tsx
+    	index.css
+    	index.tsx
+    	logo.svg
+     ```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
